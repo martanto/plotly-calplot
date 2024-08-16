@@ -8,10 +8,10 @@ repository = "https://github.com/brunorosilva/plotly-calplot"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.8,<4.0.0"
+python = ">=3.9,<4.0.0"
 plotly = "^5.4.0"
 pandas = "*"
-numpy = "^1.22.3"
+numpy = "^2.0.0"
 pytz = "^2023.3.post1"
 
 [tool.poetry.group.dev.dependencies]
